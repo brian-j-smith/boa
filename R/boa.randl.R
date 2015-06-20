@@ -26,8 +26,8 @@ function(link, q, error, prob, delta)
                   for(i3 in c(1, 2)) {
                      if(tran.test[i1, i2, i3] > 0) {
                         fitted <- log(sum(tran.test[i1, i2, ])) +
-                                  log(sum(tran.test[i1, , i3])) -
-                                  log(sum(tran.test[i1, , ]))
+                                  log(sum(tran.test[ , i2, i3])) -
+                                  log(sum(tran.test[ , i2, ]))
                         g2 <- g2 + 2 * tran.test[i1, i2, i3] *
                                    (log(tran.test[i1, i2, i3]) - fitted)
                      }
