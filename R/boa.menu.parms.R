@@ -65,7 +65,7 @@ function()
                  value <- scan(what = "", n = 1, sep = "\n")
                  if(length(value) > 0) {
                     expr <- boa.getinput("\nDefine the new parameter as a function of the parameters listed above\n",
-                                         eval = F)
+                                         evaluate = FALSE)
                     if(length(expr) > 0) boa.chain.eval(expr, value)
                  }
                },
