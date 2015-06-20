@@ -1,0 +1,221 @@
+This is pdfeTeX, Version 3.141592-1.20b-2.2 (MiKTeX 2.4) (preloaded format=latex 2005.1.7)  22 MAY 2005 16:08
+entering extended mode
+**BOA.tex
+(BOA.tex
+LaTeX2e <2003/12/01>
+Babel <v3.8a> and hyphenation patterns for english, french, german, ngerman, du
+mylang, nohyphenation, loaded.
+(C:\Program Files\MikTex\Main\tex\latex\base\report.cls
+Document Class: report 2004/02/16 v1.4f Standard LaTeX document class
+(C:\Program Files\MikTex\Main\tex\latex\base\size12.clo
+File: size12.clo 2004/02/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(C:\Program Files\MikTex\Main\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MikTex\Main\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(C:\Program Files\MikTex\Main\tex\latex\graphics\graphics.sty
+Package: graphics 2001/07/07 v1.0n Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MikTex\Main\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(C:\Program Files\MikTex\Main\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2003/03/12 v1.1 MiKTeX 'graphics' configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 80.
+
+(C:\Program Files\MikTex\Main\tex\latex\graphics\pdftex.def
+File: pdftex.def 2002/06/19 v0.03k graphics/color for pdftex
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+) (BOA.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+ (C:\Program Files\MikTex\Main\tex\context\base\supp-pdf.tex
+(C:\Program Files\MikTex\Main\tex\context\base\supp-mis.tex
+loading : Context Support Macros / Miscellaneous (2004.10.26)
+\protectiondepth=\count89
+\scratchcounter=\count90
+\scratchtoks=\toks15
+\scratchdimen=\dimen105
+\scratchskip=\skip43
+\scratchmuskip=\muskip10
+\scratchbox=\box26
+\scratchread=\read1
+\scratchwrite=\write3
+\zeropoint=\dimen106
+\onepoint=\dimen107
+\onebasepoint=\dimen108
+\minusone=\count91
+\thousandpoint=\dimen109
+\onerealpoint=\dimen110
+\emptytoks=\toks16
+\nextbox=\box27
+\nextdepth=\dimen111
+\everyline=\toks17
+\!!counta=\count92
+\!!countb=\count93
+\recursecounter=\count94
+)
+loading : Context Support Macros / PDF (2004.10.26)
+\nofMPsegments=\count95
+\nofMParguments=\count96
+\everyMPtoPDFconversion=\toks18
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 11.
+ [1
+
+{psfonts.map}] (BOA.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+ [1
+
+] [2])
+\tf@toc=\write4
+ [3]
+Chapter 1.
+[4
+
+] [5] [6] [7]
+Chapter 2.
+[8
+
+] [9]
+Chapter 3.
+[10
+
+] [11] [12] [13]
+Chapter 4.
+[14
+
+] [15] [16] [17] [18]
+Chapter 5.
+[19
+
+] [20] [21] [22] [23] [24] [25] [26]
+Chapter 6.
+[27
+
+] <autocorr.pdf, id=117, 510.90875pt x 509.905pt>
+File: autocorr.pdf Graphic file (type pdf)
+ <use autocorr.pdf>
+[28 <autocorr.pdf>] <density.pdf, id=132, 510.90875pt x 509.905pt>
+File: density.pdf Graphic file (type pdf)
+
+<use density.pdf> [29 <density.pdf>]
+<mean.pdf, id=147, 510.90875pt x 509.905pt>
+File: mean.pdf Graphic file (type pdf)
+ <use mean.pdf> [30 <mean.pdf>]
+<trace.pdf, id=163, 510.90875pt x 509.905pt>
+File: trace.pdf Graphic file (type pdf)
+ <use trace.pdf> [31 <trace.pdf>]
+[32] <bandg.pdf, id=181, 510.90875pt x 509.905pt>
+File: bandg.pdf Graphic file (type pdf)
+ <use bandg.pdf> [33 <bandg.pdf>] <gandr.pdf, id=196, 510.90875pt x 509.905pt>
+File: gandr.pdf Graphic file (type pdf)
+ <use gandr.pdf> [34 <gandr.pdf>] <geweke.pdf, id=211, 510.90875pt x 509.905pt>
+File: geweke.pdf Graphic file (type pdf)
+ <use geweke.pdf> [35 <geweke.pdf>] [36]
+Chapter 7.
+[37
+
+]
+Chapter 8.
+[38
+
+] [39]
+Chapter 9.
+[40
+
+] [41] [42
+
+] [43] (BOA.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1020 strings out of 95517
+ 11464 string characters out of 1188962
+ 60837 words of memory out of 1060517
+ 4114 multiletter control sequences out of 60000
+ 10397 words of font info for 37 fonts, out of 500000 for 1000
+ 14 hyphenation exceptions out of 607
+ 25i,6n,19p,220b,289s stack positions out of 1500i,500n,5000p,200000b,32768s
+PDF statistics:
+ 251 PDF objects out of 300000
+ 0 named destinations out of 300000
+ 36 words of extra memory for PDF output out of 65536
+<C:\Program Files\MikTex\Main\fonts\type1\bluesky\cm\cmti12.pfb><C:\Program F
+iles\MikTex\Main\fonts\type1\bluesky\cm\cmmi8.pfb><C:\Program Files\MikTex\Main
+\fonts\type1\bluesky\cm\cmtt8.pfb><C:\Program Files\MikTex\Main\fonts\type1\blu
+esky\cm\cmsy10.pfb><C:\Program Files\MikTex\Main\fonts\type1\bluesky\cm\cmmi12.
+pfb><C:\Program Files\MikTex\Main\fonts\type1\bluesky\cm\cmtt10.pfb><C:\Program
+ Files\MikTex\Main\fonts\type1\bluesky\cm\cmbx12.pfb><C:\Program Files\MikTex\M
+ain\fonts\type1\bluesky\cm\cmr12.pfb><C:\Program Files\MikTex\Main\fonts\type1\
+bluesky\cm\cmr17.pfb>
+Output written on BOA.pdf (44 pages, 348902 bytes).
