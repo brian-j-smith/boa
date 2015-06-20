@@ -28,4 +28,11 @@ boa.menu(recover = FALSE)
 
 \author{Brian J. Smith}
 
+\examples{
+\dontrun{
+## Start the menu system
+boa.menu()
+}
+}
+
 \keyword{interface}
