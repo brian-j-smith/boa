@@ -8,7 +8,8 @@
   session list of sequences.
 }
 \usage{
-boa.print.randl(q = boa.par("randl.q"), error = boa.par("randl.error"), prob = 1 - boa.par("alpha"), delta = boa.par("randl.delta"))
+boa.print.randl(q = boa.par("randl.q"), error = boa.par("randl.error"),
+                prob = 1 - boa.par("alpha"), delta = boa.par("randl.delta"))
 }
 
 \arguments{

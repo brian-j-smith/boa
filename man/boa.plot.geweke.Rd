@@ -7,7 +7,9 @@
   line segments for a parameter in an MCMC sequence.
 }
 \usage{
-boa.plot.geweke(lname, pname, bins = boa.par("geweke.bins"), p.first = boa.par("geweke.first"), p.last = boa.par("geweke.last"), alpha = boa.par("alpha"), annotate = boa.par("legend"))
+boa.plot.geweke(lname, pname, bins = boa.par("geweke.bins"),
+                p.first = boa.par("geweke.first"), p.last = boa.par("geweke.last"),
+                alpha = boa.par("alpha"), annotate = boa.par("legend"))
 }
 
 \arguments{
