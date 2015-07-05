@@ -1,3 +1,12 @@
+## import functions
+importFrom("graphics", "abline", "legend", "lines", "mtext", "par", "plot")
+importFrom("grDevices", "dev.cur", "dev.list", "dev.next", "dev.off",
+           "dev.prev", "dev.print", "dev.set", "postscript")
+importFrom("stats", "Gamma", "acf", "aggregate", "cor", "density", "fft", "glm",
+           "pnorm", "predict", "qf", "qnorm", "quantile", "spline", "ts", "var")
+importFrom("utils", "assignInNamespace", "menu", "read.table")
+
+
 ## export functions
 export(
    boa.acf,
